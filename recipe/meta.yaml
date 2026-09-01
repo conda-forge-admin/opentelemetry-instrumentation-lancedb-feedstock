@@ -26,7 +26,7 @@ requirements:
     - opentelemetry-semantic-conventions >=0.59b0
     - opentelemetry-semantic-conventions-ai >=0.5.1,<0.6.0
   run_constrained:
-    - lancedb >=0.9.0,<0.10.0
+    - lancedb >=0.26.0
 
 test:
   imports:
